@@ -1,12 +1,12 @@
 # Hi, I'm Dabe 👋
 
-I'm a developer building simple, useful digital tools through **DMC Labs**.
+I build simple, useful digital tools through DMC Labs.
 
-I like creating projects that are easy to understand, practical to use, and built for real people — not just for looking fancy in screenshots.
+I enjoy creating projects that are practical, easy to use, and built for real people — not just for screenshots.
 
-Sometimes I build fast.  
-Sometimes I rest first. 😄  
-But when I build, I like making things that actually work.
+Sometimes I build fast.
+Sometimes I build slow.
+But when I build, I like making things people can actually use.
 
 ---
 
@@ -28,12 +28,24 @@ Built for everyday lending situations with a clean, private, and easy-to-use exp
 
 ---
 
+🌍 GlobeWave
+
+🌍 GlobeWave
+
+A mobile-first world radio app focused on simplicity, discovery, and global listening experiences.
+
+Currently being refined for Android and web.
+
+Live Site: https://globewave.vercel.app
+
+---
+
 ## 🛠️ What I’m Building
 
 - Simple web apps
 - Mobile-first tools
 - Practical digital systems
-- AI-powered creative projects
+- AI-powered and practical digital tools
 - Small business tools through DMC Labs
 
 ---
@@ -63,6 +75,7 @@ Just steady building, learning, fixing, and improving.
 - Portfolio: [dabechua.com](https://dabechua.com)
 - MixMyDog: [mixmydog.com](https://mixmydog.com)
 - Google Play App: [Loan Tracker by DMC Labs](https://play.google.com/store/apps/details?id=com.dmclabs.loantracker)
+- GlobeWave (Android Testing, web app): [globewave.vercel.app](https://globewave.vercel.app)  
 
 ---
 
@@ -71,6 +84,8 @@ Just steady building, learning, fixing, and improving.
 You can reach me through my portfolio:
 
 [dabechua.com](https://dabechua.com)
+---
+Building thoughtfully. Learning continuously.
 
 ---
 
