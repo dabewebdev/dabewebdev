@@ -12,6 +12,16 @@ But when I build, I like making things people can actually use.
 
 ## 🚀 Featured Projects
 
+### 📊 DMC BizHub
+
+An all-in-one business management web app designed to help small businesses manage customers, sales, expenses, tasks, team members, and reports in one simple dashboard.
+
+Built to make everyday business management organized, accessible, and easy to understand—whether you’re using a computer or cellphone.
+
+**Live Site:** [dmcbizhub.com](https://dmcbizhub.com)
+
+---
+
 ### 🐶 MixMyDog
 A fun AI-powered web app where people can mix two dog breeds and see what they might look like.
 
